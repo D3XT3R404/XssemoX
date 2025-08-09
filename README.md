@@ -87,4 +87,3 @@ XssemoX/
 ```
 ## Lisensi
 MIT License
-Educational
