@@ -49,10 +49,6 @@ XssemoX/
   Dilarang menggunakan untuk kegiatan ilegal.
 - Gunakan hanya pada sistem atau aplikasi yang Anda miliki izin untuk menguji.
 
-## Lisensi
-MIT License
-
-
 ## 🏗️ Arsitektur Tool
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -84,3 +80,5 @@ MIT License
                        │   Detection      │
                        └──────────────────┘
 ```
+## Lisensi
+MIT License
