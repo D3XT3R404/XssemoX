@@ -5,7 +5,7 @@
 
 XssemoX - **XSS vulnerability Testing Tool** deyang dirancang khusus untuk mendeteksi kerentanan Cross-Site Scripting (XSS) pada aplikasi web dengan custom payload support yang bekerja dengan menguji berbagai payload XSS pada parameter URL, Automated testing untuk comprehensive web application security assessment.
 
-<img width="369" height="564" alt="image" src="https://github.com/user-attachments/assets/a2b7b823-9820-4698-83c5-c01c53f25f95" />
+<img width="367" height="566" alt="image" src="https://github.com/user-attachments/assets/6cc51b6b-095c-49d4-85d3-fea38ac1cee7" />
 
 ## Instalasi
 1. **Clone repository**
