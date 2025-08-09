@@ -10,7 +10,7 @@ XssemoX - **XSS vulnerability Testing Tool** deyang dirancang khusus untuk mende
 ## Instalasi
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/XssemoX.git
+   git clone https://github.com/D3XT3R404/XssemoX.git
    cd XssemoX
    ```
 
@@ -32,7 +32,7 @@ XssemoX - **XSS vulnerability Testing Tool** deyang dirancang khusus untuk mende
 
 3. Contoh menjalankan pengujian:
    - Pastikan sudah memuat wordlist payload
-   - Masukkan URL target (contoh: `https://example.com/?q=test`)
+   - Masukkan URL target (contoh: `https://example.com/?q=test`)(wajib menggunakan query)
    - Tool akan menguji setiap payload pada semua parameter dan menampilkan hasilnya
 
 ## Struktur Folder
@@ -87,3 +87,4 @@ XssemoX/
 ```
 ## Lisensi
 MIT License
+Educational
